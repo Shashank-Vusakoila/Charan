@@ -52,11 +52,11 @@ export default function Navbar() {
         <div className="topbar-inner">
           <span>
             Sales: <a href="tel:+916305621828">+91 63056 21828</a> &nbsp;|&nbsp;{" "}
-            <a href="tel:+919100001234">+91 9100001234</a>
+            <a href="tel:+917032381958">+91 70323 81958</a>
           </span>
           <div className="topbar-r">
             <span>
-              <a href="mailto:23eg110a55@anurag.edu.in">23eg110a55@anurag.edu.in</a>
+              <a href="mailto:orvexaimportsandexports@gmail.com">orvexaimportsandexports@gmail.com</a>
             </span>
             <span>Building global connections with Indian exports</span>
           </div>

@@ -4,7 +4,7 @@ const whatsappHref =
   "https://wa.me/916305621828?text=Hi%20Orvexa%2C%20I%20would%20like%20to%20know%20more%20about%20your%20export%20services.";
 const instagramHref = "https://www.instagram.com/himu_himesh?igsh=MXlpdHJ5NWxkdms2";
 const linkedinHref =
-  "https://www.linkedin.com/in/seri-charan-89926333a?utm_source=share_via&utm_content=profile&utm_medium=member_ios";
+  "https://www.linkedin.com/in/orvexaimportsand-exports-b869443ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap";
 
 const founders = [
   {
@@ -29,7 +29,7 @@ const founders = [
     ],
   },
   {
-    name: "Jashwanth K.",
+    name: "B.jashwanth",
     role: "Co-Founder & Trade Relations",
     bio: "Builds communication with buyers and support partners, helping create a trusted network for steady international growth.",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=280&q=80",

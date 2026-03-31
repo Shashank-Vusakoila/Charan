@@ -4,7 +4,7 @@ const whatsappHref =
   "https://wa.me/916305621828?text=Hi%20Orvexa%2C%20I%20would%20like%20to%20know%20more%20about%20your%20export%20services.";
 const instagramHref = "https://www.instagram.com/himu_himesh?igsh=MXlpdHJ5NWxkdms2";
 const linkedinHref =
-  "https://www.linkedin.com/in/seri-charan-89926333a?utm_source=share_via&utm_content=profile&utm_medium=member_ios";
+  "https://www.linkedin.com/in/orvexaimportsand-exports-b869443ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap";
 
 export default function Footer() {
   return (
@@ -64,12 +64,12 @@ export default function Footer() {
             <br />
             <a href="tel:+916305621828">+91 63056 21828</a>
             <br />
-            <a href="tel:+919100001234">+91 9100001234</a>
+            <a href="tel:+917032381958">+91 70323 81958</a>
           </p>
           <p className="footer-spacing">
             <strong>Email</strong>
             <br />
-            <a href="mailto:23eg110a55@anurag.edu.in">23eg110a55@anurag.edu.in</a>
+            <a href="mailto:orvexaimportsandexports@gmail.com">orvexaimportsandexports@gmail.com</a>
           </p>
         </div>
 

@@ -32,7 +32,7 @@ export default function About() {
               alt="Shipping containers at port"
             />
             <div className="about-badge">
-              <div className="ab-tag">Founded 2020</div>
+              <div className="ab-tag">Founded 2026</div>
               <div className="ab-val">Growing Network</div>
             </div>
           </div>

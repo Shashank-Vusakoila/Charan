@@ -22,7 +22,7 @@ export default function ContactSection() {
             a clean, practical way to begin building international relationships.
           </p>
           <div className="cta-btns">
-            <a href="mailto:23eg110a55@anurag.edu.in" className="btn-primary">
+            <a href="mailto:orvexaimportsandexports@gmail.com" className="btn-primary">
               <FaEnvelope />
               Get in Touch
             </a>
