@@ -1,0 +1,24 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#EFE8DA"/>
+  <rect x="54" y="54" width="1092" height="692" rx="30" fill="#F8F4EC"/>
+  <circle cx="968" cy="156" r="118" fill="#D8E6C6"/>
+  <circle cx="232" cy="650" r="156" fill="#E3D3B3"/>
+  <ellipse cx="600" cy="504" rx="310" ry="118" fill="#D7C0A0"/>
+  <path d="M430 506C430 431 491 370 566 370H634C709 370 770 431 770 506V519C770 584 717 637 652 637H548C483 637 430 584 430 519V506Z" fill="#8E9F76"/>
+  <path d="M462 486C462 428 509 381 567 381H633C691 381 738 428 738 486V509C738 560 696 602 645 602H555C504 602 462 560 462 509V486Z" fill="#C9B79C"/>
+  <path d="M525 367C511 315 521 260 555 220C571 201 594 186 618 183C643 180 668 193 675 217C683 244 666 270 649 287C618 321 573 345 525 367Z" fill="#6E944E"/>
+  <path d="M601 353C598 295 620 238 661 196C682 174 712 156 742 156C774 156 800 179 803 211C807 245 783 274 759 294C716 330 659 348 601 353Z" fill="#7FAA58"/>
+  <path d="M672 379C701 329 747 289 801 268C829 258 861 254 885 267C910 281 923 310 915 335C906 362 879 378 853 386C799 403 734 400 672 379Z" fill="#587D3C"/>
+  <path d="M490 389C449 347 394 317 336 308C306 303 274 306 251 323C227 340 218 373 231 399C245 427 275 438 302 442C359 451 428 433 490 389Z" fill="#88B363"/>
+  <path d="M562 359C547 304 513 256 465 225C439 208 407 196 380 201C351 206 328 229 328 259C328 290 351 314 375 331C424 367 490 380 562 359Z" fill="#6C8D49"/>
+  <path d="M602 238V462" stroke="#466033" stroke-width="12" stroke-linecap="round"/>
+  <path d="M548 453C525 431 489 415 450 409" stroke="#466033" stroke-width="8" stroke-linecap="round"/>
+  <path d="M656 437C686 412 726 395 771 389" stroke="#466033" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="870" cy="555" r="78" fill="#F4EFE5"/>
+  <path d="M835 555C835 536 851 520 870 520C889 520 905 536 905 555C905 574 889 590 870 590C851 590 835 574 835 555Z" fill="#B0C98B"/>
+  <path d="M858 536C850 516 855 492 872 478C884 468 900 465 912 472C925 480 929 496 924 510C916 533 891 548 858 536Z" fill="#71964E"/>
+  <path d="M874 536C880 516 895 498 915 490C929 484 946 484 957 493C969 503 972 520 965 533C954 553 930 563 874 536Z" fill="#89B363"/>
+  <rect x="104" y="100" width="328" height="114" rx="20" fill="#20361F"/>
+  <text x="136" y="146" fill="#F6F0E3" font-family="Georgia, serif" font-size="34" font-weight="700">Indian Herbs</text>
+  <text x="136" y="183" fill="#DCE7CB" font-family="Arial, sans-serif" font-size="22" letter-spacing="3">TULSI  MORINGA  ASHWAGANDHA</text>
+</svg>

@@ -46,8 +46,8 @@ export default function About() {
             </h2>
             <p className="sec-body">
               Orvexa is a startup-focused export company building global connections between Indian suppliers
-              and overseas buyers. We work with rice, turmeric, spices, and related trade categories, with a clear
-              focus on quality, reliability, and practical long-term partnerships.
+              and overseas buyers. We work with rice, turmeric, spices, coffee, and specialty Indian herbs, with a
+              clear focus on quality, reliability, and practical long-term partnerships.
             </p>
             <div className="features" id="values">
               {features.map((feature) => (

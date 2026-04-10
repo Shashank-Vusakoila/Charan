@@ -26,6 +26,23 @@ const products = [
     description:
       "A focused spices portfolio including whole and ground options for importers, distributors, and growing food businesses.",
   },
+  {
+    image:
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&q=80",
+    alt: "Roasted coffee beans",
+    tag: "Coffee",
+    title: "Indian Coffee Beans & Ground Coffee",
+    description:
+      "Coffee selections from India prepared for buyers seeking reliable sourcing across roasted beans, green beans, and ground formats.",
+  },
+  {
+    image: "https://commons.wikimedia.org/wiki/Special:FilePath/Moringa%20leaves.jpg",
+    alt: "Fresh moringa leaves",
+    tag: "Herbs",
+    title: "India-Exclusive Herbs & Botanicals",
+    description:
+      "Specialty herbs from India including tulsi, ashwagandha, moringa, curry leaves, and other botanical products requested by global buyers.",
+  },
 ];
 
 export default function Products() {
@@ -40,8 +57,8 @@ export default function Products() {
             <em>Categories</em>
           </h2>
           <p className="sec-body section-body-products">
-            Our current export focus is built around rice, turmeric, and spices for buyers who value quality and
-            reliable coordination.
+            Our export portfolio includes rice, turmeric, spices, coffee, and India-sourced herbs for buyers who
+            value quality and reliable coordination.
           </p>
         </div>
 

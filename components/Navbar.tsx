@@ -10,7 +10,7 @@ const navGroups = [
     dropdown: [
       { label: "Our Story", href: "#about" },
       { label: "Our Values", href: "#values" },
-      { label: "Meet The Team", href: "#team" },
+      { label: "Featured Products", href: "#products" },
       { label: "Certifications", href: "#partners" },
     ],
   },
@@ -52,7 +52,7 @@ export default function Navbar() {
         <div className="topbar-inner">
           <span>
             Sales: <a href="tel:+916305621828">+91 63056 21828</a> &nbsp;|&nbsp;{" "}
-            <a href="tel:+917032381958">+91 70323 81958</a>
+            <a href="tel:+919182481958">+91 91824 81958</a>
           </span>
           <div className="topbar-r">
             <span>

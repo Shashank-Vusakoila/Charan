@@ -1,8 +1,8 @@
 import { FaInstagram, FaLinkedinIn, FaWhatsapp } from "react-icons/fa6";
 
 const whatsappHref =
-  "https://wa.me/916305621828?text=Hi%20Orvexa%2C%20I%20would%20like%20to%20know%20more%20about%20your%20export%20services.";
-const instagramHref = "https://www.instagram.com/himu_himesh?igsh=MXlpdHJ5NWxkdms2";
+  "https://wa.me/919182481958?text=Hi%20Orvexa%2C%20I%20would%20like%20to%20know%20more%20about%20your%20export%20services.";
+const instagramHref = "https://www.instagram.com/orvexa_importsandexports?igsh=MTgwd3l4OXVvb2Zlbg==";
 const linkedinHref =
   "https://www.linkedin.com/in/orvexaimportsand-exports-b869443ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap";
 
@@ -44,7 +44,7 @@ export default function Footer() {
           <a href="#about">About Us</a>
           <a href="#services">Services</a>
           <a href="#products">Products</a>
-          <a href="#team">Our Team</a>
+          <a href="#partners">Markets</a>
           <a href="#partners">Partners</a>
           <a href="#testimonials">Testimonials</a>
           <a href="#contact">Contact</a>
@@ -64,7 +64,7 @@ export default function Footer() {
             <br />
             <a href="tel:+916305621828">+91 63056 21828</a>
             <br />
-            <a href="tel:+917032381958">+91 70323 81958</a>
+            <a href="tel:+919182481958">+91 91824 81958</a>
           </p>
           <p className="footer-spacing">
             <strong>Email</strong>
