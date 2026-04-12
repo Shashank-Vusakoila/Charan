@@ -21,9 +21,9 @@ export default function Footer() {
             </div>
           </div>
           <p className="fl-desc">
-            Orvexa supports Indian exporters with sourcing, documentation, quality coordination, and shipment
-            planning. We are focused on building a trusted network that helps growing businesses move confidently into
-            international markets.
+            Orvexa Imports and Exports supports Indian exporters with sourcing, documentation, quality coordination,
+            and shipment planning. We help businesses export rice, turmeric, spices, coffee, and specialty herbs to
+            international markets with confidence.
           </p>
           <div className="fl-affil">Founded by export-focused entrepreneurs | Est. 2020</div>
           <div className="fl-socials">

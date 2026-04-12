@@ -27,6 +27,8 @@ export const metadata: Metadata = {
     "Orvexa Imports and Exports connects Indian suppliers with global buyers through export support for rice, turmeric, spices, coffee, and specialty Indian herbs.",
   keywords: [
     "Orvexa Imports and Exports",
+    "Orvexa",
+    "Orvexa import and export company",
     "Indian exports",
     "rice exporters India",
     "turmeric export",

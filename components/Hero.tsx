@@ -8,11 +8,11 @@ const slides = [
     image:
       "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=1800&q=80",
     alt: "Cargo containers at port",
-    tag: "Welcome to Orvexa",
-    title: "Indian Quality,",
-    emphasis: "Global Reach",
+    tag: "Welcome to Orvexa Imports and Exports",
+    title: "Orvexa Imports",
+    emphasis: "and Exports",
     body:
-      "Orvexa helps Indian suppliers connect with a growing network of international buyers through dependable export coordination and thoughtful communication.",
+      "Orvexa Imports and Exports helps Indian suppliers connect with international buyers through dependable export coordination for rice, turmeric, spices, coffee, and specialty Indian herbs.",
     primary: { label: "Explore Services", href: "#services", icon: <FaHandshake /> },
     secondary: { label: "Talk To Our Team", href: "#contact", icon: <FaPhone /> },
   },
@@ -24,7 +24,7 @@ const slides = [
     title: "From Warehouse",
     emphasis: "To World",
     body:
-      "From sourcing and documentation to shipping support, we focus on making exports feel clear, reliable, and manageable for growing businesses.",
+      "From sourcing and documentation to shipping support, Orvexa Imports and Exports makes Indian exports clear, reliable, and manageable for growing businesses.",
     primary: { label: "Our Process", href: "#services", icon: <FaBox /> },
     secondary: { label: "View Products", href: "#products", icon: <FaBox /> },
   },
@@ -36,7 +36,7 @@ const slides = [
     title: "Scale Your Business",
     emphasis: "Go Global",
     body:
-      "We are building global connections with trusted partners across logistics, sourcing, and trade support so exporters can grow with confidence.",
+      "We are building global connections across logistics, sourcing, and trade support so exporters from India can grow with confidence in global markets.",
     primary: { label: "Our Network", href: "#partners", icon: <FaGlobe /> },
     secondary: { label: "Become a Partner", href: "#contact", icon: <FaEnvelope /> },
   },
