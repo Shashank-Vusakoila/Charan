@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Merriweather, Nunito } from "next/font/google";
 import "../styles/globals.css";
 
+const siteUrl = "https://orvexaimportsandexports.com";
+
 const nunito = Nunito({
   subsets: ["latin"],
   variable: "--font-nunito",
@@ -16,9 +18,52 @@ const merriweather = Merriweather({
 });
 
 export const metadata: Metadata = {
-  title: "Orvexa - Indian Quality, Global Reach",
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: "Orvexa Imports and Exports | Indian Quality, Global Reach",
+    template: "%s | Orvexa Imports and Exports",
+  },
   description:
-    "Orvexa connects Indian suppliers with international buyers through reliable export support focused on quality and long-term relationships.",
+    "Orvexa Imports and Exports connects Indian suppliers with global buyers through export support for rice, turmeric, spices, coffee, and specialty Indian herbs.",
+  keywords: [
+    "Orvexa Imports and Exports",
+    "Indian exports",
+    "rice exporters India",
+    "turmeric export",
+    "spices export",
+    "coffee export India",
+    "Indian herbs export",
+    "Hyderabad export company",
+  ],
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Orvexa Imports and Exports",
+    description:
+      "Indian export company for rice, turmeric, spices, coffee, and specialty herbs with reliable sourcing and shipment coordination.",
+    url: siteUrl,
+    siteName: "Orvexa Imports and Exports",
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Orvexa Imports and Exports",
+    description:
+      "Indian export company for rice, turmeric, spices, coffee, and specialty herbs.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+      "max-video-preview": -1,
+    },
+  },
 };
 
 export default function RootLayout({
